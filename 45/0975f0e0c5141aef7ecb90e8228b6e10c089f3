@@ -1,0 +1,33 @@
+.gitignore
+  s_ac24fe161aec62::t_6f52fcaa40f1d0 200-204
+  s_ac24fe161aec62::t_3080f393d495f2 205-208
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "450975f0e0c5141aef7ecb90e8228b6e10c089f3",
+  "prompts": {},
+  "sessions": {
+    "s_ac24fe161aec62": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a26a6faab3bb372045f87a9",
+        "model": "glm-5.2"
+      },
+      "human_author": "Wangyucheng (Ronnie) <w00500077@china.huawei.com>",
+      "custom_attributes": {
+        "edit_kind": "file_edit",
+        "runtime_client": "trae-tob-git-ai",
+        "dedupe_key": "6a26a6faab3bb372045f87a9:6a7d7f0cd0beeb1e77e817b3:afterEdit:9d8dd8ad",
+        "tool_use_id": "6a7d7f0cd0beeb1e77e817b3",
+        "tool_type": "builtin",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "external_session_id": "6a26a6faab3bb372045f87a9",
+        "source_scene": "agent",
+        "client_type": "ide",
+        "session_id": "6a26a6faab3bb372045f87a9",
+        "operation_id": "6a7d7f0cd0beeb1e77e817b3"
+      }
+    }
+  }
+}
