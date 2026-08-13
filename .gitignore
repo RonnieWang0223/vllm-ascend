@@ -197,6 +197,15 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
+# Local IDE and backup files
+.trae/
+*.bak
+*.bak.*
+
+# Standalone projects (not part of vllm-ascend)
+asc-devkit/
+cann-recipes-infer/
+
 # Ruff stuff:
 .ruff_cache/
 
